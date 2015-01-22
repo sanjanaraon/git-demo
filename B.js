@@ -6,3 +6,6 @@ var five = "five";
 var six = "six";
 var seven = "seven";
 var eight = "eight";
+var hello = function () {
+    console.log("hello");
+}
