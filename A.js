@@ -9,4 +9,6 @@ function() {
     console.log("Line 8.");
     console.log("Line 9.");
     console.log("Line 10.");
+
+    loginModule();
 }

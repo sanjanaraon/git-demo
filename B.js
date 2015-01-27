@@ -6,6 +6,11 @@ var five = "five";
 var six = "six";
 var seven = "seven";
 var eight = "eight";
-var hello = function () {
-    console.log("hello");
+
+var loginModule = function () {
+    console.log("Login Module");
+    console.log("Hello, User");
+    console.log("You are authenticated.");
+    console.log("Welcome!");
+    console.log("Thank you!");
 }
